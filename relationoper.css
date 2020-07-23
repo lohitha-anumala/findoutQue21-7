@@ -1,0 +1,18 @@
+div p{
+    color:purple;
+}               
+div p span{
+    color:goldenrod;
+}
+#list li{
+    color:skyblue;
+}
+#list>li{
+    color:violet;
+}
+ul + p{
+    color:olivedrab;
+}
+ul ~ p{
+    color:blanchedalmond;
+}
